@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [NITC-Hostel-Manager](https://github.com/prasant7978/NITC-Hostel-Manager)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Java, Kotlin, NodeJS, OOPs**
+- 💬 Ask me about **Java, Android, NodeJS, OOPs**
 
 - 📫 How to reach me **sethip52@gmail.com**
 
