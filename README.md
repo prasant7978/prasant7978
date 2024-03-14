@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasant7978&label=Profile%20views&color=0e75b6&style=flat" alt="prasant7978" /> </p>
 
-- 🔭 I’m currently working on [NITC-Hostel-Manager](https://github.com/prasant7978/NITC-Hostel-Manager)
+- 🔭 I’m currently working on [VotifyU](https://github.com/prasant7978/VotifyU)
 
 - 🌱 I’m currently learning **React Native**
 
